@@ -69,4 +69,22 @@
     margin: auto;
     padding-top:50px
 }
+.deal-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    background-color: rgba(229, 84, 115, 0.10);
+    margin-top: 100px;
+    padding: 0px 180px;
+}
+.deal-title{
+    font-size: 25px;
+}
+.deal-left{
+    width: 50%;
+}
+.deal-image{
+    height: 200px;
+}
     
