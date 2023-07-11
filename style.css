@@ -110,6 +110,13 @@
     background-size: cover;
     
 }
+.background-setup{
+
+}
+.backround{
+    text-align: center;
+    padding: 100px;
+}
 .footer, footer-type{
     margin-top: 60px;
     justify-content: space-around;
@@ -121,8 +128,11 @@
     text-align: center;
 }
 .footer-type{
-    padding-top: 100px;
+    padding-top: 0px;
 }
 .red{
     color: #E55473;
+}
+.main{
+    padding: 100px;
 }
