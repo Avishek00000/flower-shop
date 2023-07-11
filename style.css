@@ -35,17 +35,38 @@
     height: 450px;
     margin-top: 50px;
 }
-/* .image{
-    padding-top: 8%;
-    padding-right: 20px;
+.header-section-img{
+    padding-top: 70px;
+    text-align: center;
+    font-style: bold;
 }
-.work{
-    padding-left: 240px;
+.header-type{
+    width: 70%;
+    margin: auto;
+    padding: 10px 0px;
+    color: rgba(39, 39, 39, 0.60);
 }
-.type{
-    font-size: 20px;
-    display: flex;
-    color: #272727;
-} */
 
+
+
+.img-add{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+} 
+
+.image-box{
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);    
+    width: 300px;
+    align-items: center;
+    height: 350px;
+}
+.image-box .image{
+    height: 300px;
+    border-radius: 300px 300px 0px 0px;
+    margin: auto;
+    padding-top:50px
+}
     
