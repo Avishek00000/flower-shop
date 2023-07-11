@@ -47,7 +47,10 @@
     color: rgba(39, 39, 39, 0.60);
 }
 
-
+.featured-img-title{
+    text-align: center;
+    margin: 10px 0px;
+}
 
 .img-add{
     display: flex;
@@ -86,5 +89,15 @@
 }
 .deal-image{
     height: 200px;
+}
+.deal-section-two{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+}
+.deal-img{
+    width: 270px;
+    padding-left: 15px;
+    margin-top: 20px;
 }
     
