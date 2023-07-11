@@ -100,4 +100,29 @@
     padding-left: 15px;
     margin-top: 20px;
 }
+.background-setup{
+    background-image: url("images/Rectangle\ 9.png");
+    margin-top: 10%;
+    width: 1142px;
+    height: 442px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     
+}
+.footer, footer-type{
+    margin-top: 60px;
+    justify-content: space-around;
+    align-items: center;
+    width: 1142px;
+    height: 400px;
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
+.footer-type{
+    padding-top: 100px;
+}
+.red{
+    color: #E55473;
+}
